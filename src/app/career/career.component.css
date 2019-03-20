@@ -236,3 +236,9 @@ p:last-child{
     display: none;
   }
 }
+
+img {
+  height:50px;
+  width:auto;/*maintain aspect ratio*/
+  max-width:500px;
+}
